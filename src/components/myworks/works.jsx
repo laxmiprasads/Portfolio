@@ -12,14 +12,14 @@ const Myworks = () => {
           <p>
             Farm Link is a web application that connects farmers with customers, allowing them to sell their produce directly. This is build by using the Base44 AI. Application has two interfaces one for farmer and the other for customers.
           </p>
-          <p className="prolink"><span className="linkboldtxt">Link: </span>https://app--farm-link-copy-56f4226a.base44.app</p>
+          <p className="prolink"><span className="linkboldtxt">Link: </span>app--farm-link-copy-56f4226a.base44.app</p>
         </div>
         <div className="project">
           <h2 className="projectname">Grocers Galaxy</h2>
           <p>
             Grocers Galaxy is a web application that allows users to order groceries online. It has a user-friendly interface. The application is built using Angular. This application also has two interfaces one for admin to manage the products and the other for customers to place orders.
           </p>
-          <p className="prolink"><span className="linkboldtxt">Git Link: </span></p>
+          <p className="prolink"><span className="linkboldtxt">Git Link: </span>github.com/laxmiprasads/Grocers-Galaxy</p>
         </div>
         <div className="project">
           <h2 className="projectname">Optisight</h2>

@@ -43,6 +43,12 @@ const Skills = () => {
             <h2>Tailwind Css</h2>
           </div>
         </div>
+        <div className="skillboxcontainer">
+          <div className="skillbox">
+          <img className="skillimgsql" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sqlite" />
+          <h2>SQLite</h2>
+          </div>
+        </div>
       </div>
     </div>
   )
