@@ -1,0 +1,41 @@
+.skills-container{
+  background-color: #f0f0f0;
+  height:100vh;
+  font-family:Calibri;
+  text-align: center;
+}
+.skillbox{
+  width: 120px;
+  text-align: center;
+  background-color: aliceblue;
+  border-radius: 10px;
+  padding:15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.skillscontainer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+.skillimg{
+  width: 80px;
+  height: 80px;
+}
+.skillimgtwcss{
+  width: 80px;
+  height: 50px;
+}
+.skillimgbs{
+  width: 80px;
+  height: 70px;
+}
+.skillboxcontainer{
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+}

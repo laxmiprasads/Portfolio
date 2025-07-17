@@ -1,0 +1,52 @@
+.aboutpage{
+  background-color: #f0f0f0;
+}
+.container{
+  font-family: Calibri;
+}
+.goldcolortext{
+  color: goldenrod;
+}
+.aboutcontent{
+  margin-left: 23%;
+}
+.aboutcontent h3{
+  margin-top: -1rem;
+}
+.logopic{
+  height: 60px;
+  width: 60px;
+  border-radius: 10px;
+  border: 2px solid goldenrod;
+  align-self: center;
+  padding: 3px;
+  background-color: white;
+}
+.education{
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: aliceblue;
+  height: 240px;
+  width: 300px;
+  margin: 25px;
+}
+.education:hover{
+  scale: 1.09;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease-in-out;
+}
+.educationcontainer{
+  margin: 10px;
+}
+.containers{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.boldtext{
+  font-weight: bold;
+}
+.educationheading{
+  text-align: center;
+}

@@ -1,0 +1,20 @@
+.contactmepage{
+  background-color: #f0f0f0;
+  height:100vh;
+  font-family:Calibri;
+}
+.contactmeheading{
+  text-align: center;
+}
+.contactmedetails{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: aliceblue;
+  text-align: center;
+  width: 400px;
+  margin: auto;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 15px;
+}

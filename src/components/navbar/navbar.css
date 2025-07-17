@@ -1,0 +1,38 @@
+.nav-links{
+  display: flex;
+  gap: 20px;
+  list-style-type: none;
+}
+.hyperlinks{
+  text-decoration: none;
+  font-weight: bold;
+}
+.pro{
+  border-width: 2px;
+  font-size: 21px;
+  border-style: solid;
+  border-color: rgb(10, 12, 142);
+  border-radius: 100px;
+  padding: 4px;
+  margin-right: 10px;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left:20px;
+  padding-right:20px;
+  font-family: Calibri;
+  background-color: aliceblue;
+  color:rgb(10, 12, 142);
+  position: relative;
+}
+.active{
+  color: goldenrod;
+  font-weight: bold;
+  text-decoration: none;
+}
+.appname{
+  font-family: Playfair Display;
+  font-size: 25px;
+}

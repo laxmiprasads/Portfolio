@@ -1,0 +1,55 @@
+.homepage{
+  background-color: #f0f0f0;
+  height:100vh;
+  font-family:Calibri;
+}
+.hero{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.contactmebtn{
+  padding: 10px 20px;
+  border:none;
+  background-color: goldenrod;
+  border-radius: 10px;
+  text-align: center;
+  cursor: pointer;
+  width: 130px;
+  font-size:15px;
+  font-weight: 600;
+}
+.textandimage{
+  display: flex;
+  align-items: center;
+  gap: 300px;
+  padding: 50px;
+}
+.profilepic{
+  width: 245px;
+  height: 250px;
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: goldenrod;
+  padding:3px;
+}
+h4{
+   margin-top:0rem;
+   font-size: 30px;
+}
+h1{
+  font-size:50px;
+}
+.linkcmbtn{
+  text-decoration: none;
+  color:white;
+}
