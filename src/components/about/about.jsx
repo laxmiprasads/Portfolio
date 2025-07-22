@@ -37,7 +37,7 @@ const About = () => {
             <p><span className="boldtext">Grade: </span>88%</p>
           </div>
           <div className="education">
-            <img src="https://play-lh.googleusercontent.com/F1Td_2WB0UsIO4aKWJ4l8yzEjDAMBxUberQkH8UIkhjIhYlGQnjFmQ8E4kUntkN4yyA" className="logopic" alt="paramita" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbQ7C_B1uzAbnp57Q_rZmyZ6W2KnrRjM1vHg&s" className="logopic" alt="paramita" />
             <h3>Paramitha Heritage School</h3>
             <p><span className="boldtext">Board: </span>CBSE</p>
             <p><span className="boldtext">Year: </span>2021-2022</p>
