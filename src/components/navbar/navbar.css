@@ -32,8 +32,10 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 20px; /* Adjusted padding for better spacing */
+  padding-left: 15px;
+  padding-right: 15px;
   font-family: Calibri;
+  
   background-color: aliceblue;
   color: rgb(10, 12, 142);
   position: relative; /* Needed for absolute positioning of mobile menu */

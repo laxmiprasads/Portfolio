@@ -2,7 +2,6 @@
   background-color: #f0f0f0;
   min-height: 100vh; /* Use min-height to ensure it covers the viewport but can expand */
   font-family: Calibri;
-  padding: 20px; /* Add some padding around the page content */
   box-sizing: border-box; /* Include padding in the element's total width and height */
 }
 .contactmeheading {

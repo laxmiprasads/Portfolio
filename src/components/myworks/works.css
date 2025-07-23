@@ -55,7 +55,6 @@
 }
 
 .prolink {
-  color: blue;
   text-decoration: none; /* Remove underline from links */
   font-weight: bold; /* Make links bold */
 }
