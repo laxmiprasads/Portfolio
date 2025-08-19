@@ -3,6 +3,7 @@ import Navbar from '../navbar/navbar.jsx';
 import { Link } from 'react-router-dom';
 import About from '../about/about.jsx';
 import Skills from '../skill/skills.jsx';
+import Myworks from '../myworks/works.jsx';
 
 
 
@@ -28,8 +29,9 @@ const Home = () => {
         </div>
       </div>
     </div>
-    <About />
+    {/* <About />
     <Skills />
+    <Myworks /> */}
     </div>
   )
 }

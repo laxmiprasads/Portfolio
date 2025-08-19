@@ -4,6 +4,7 @@ import './skills.css';
 const Skills = () => {
   return (
     <div className="skills-container">
+      <Navbar />
       <h1>Skills</h1>
       <div className="skillscontainer">
         <div className="skillboxcontainer">

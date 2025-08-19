@@ -52,10 +52,10 @@
   min-height: 110vh;
   font-family: Calibri;
   text-align: center;
+  margin-top: -1.7rem;
 }
 
 .skills-container h1 { /* Assuming there's an h1 for "Skills" */
-  margin-bottom: 40px;
   font-size: 2.5rem; /* Default font size for heading */
 }
 
