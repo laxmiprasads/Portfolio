@@ -48,6 +48,14 @@ const Skills = () => {
           <img className="skillimgsql" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sqlite" />
           <h2>SQLite</h2>
           </div>
+          <div className="skillbox">
+          <img className="skillimg" src="https://wallpapers.com/images/hd/java-programming-language-logo-transparent-k6ngrbl1m2xbzz4t-2.jpg" alt="java" />
+          <h2>Java</h2>
+          </div>
+          <div className="skillbox">
+          <img className="skillimgsql" src="https://i0.wp.com/chelseatroy.com/wp-content/uploads/2015/09/spring.png?fit=340,340&ssl=1" alt="springboot" />
+          <h2>Spring Boot</h2>
+          </div>
         </div>
       </div>
     </div>
