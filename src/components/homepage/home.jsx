@@ -1,11 +1,14 @@
 import './home.css';
 import Navbar from '../navbar/navbar.jsx';
 import { Link } from 'react-router-dom';
+import About from '../about/about.jsx';
+import Skills from '../skill/skills.jsx';
 
 
 
 const Home = () => {
   return(
+    <div>
     <div className='homepage'>
       <Navbar />
       <div className='text'>
@@ -24,6 +27,9 @@ const Home = () => {
           </div>
         </div>
       </div>
+    </div>
+    <About />
+    <Skills />
     </div>
   )
 }

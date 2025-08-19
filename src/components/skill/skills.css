@@ -49,13 +49,13 @@
 
 .skills-container {
   background-color: #f0f0f0;
-  min-height: 100vh; /* Use min-height to allow content to expand beyond viewport height */
+  min-height: 110vh;
   font-family: Calibri;
   text-align: center;
 }
 
 .skills-container h1 { /* Assuming there's an h1 for "Skills" */
-  margin-bottom: 40px; /* Add space below the main heading */
+  margin-bottom: 40px;
   font-size: 2.5rem; /* Default font size for heading */
 }
 
@@ -121,8 +121,6 @@
   height: 50px;
   object-fit: contain;
 }
-
-/* Media Queries for Responsiveness */
 
 /* For screens smaller than 1024px (e.g., tablets and smaller laptops) */
 @media (max-width: 1024px) {

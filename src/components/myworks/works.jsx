@@ -12,7 +12,7 @@ const Myworks = () => {
           <p>
             Farm Link is a web application that connects farmers with customers, allowing them to sell their produce directly. This is build by using the Base44 AI. Application has two interfaces one for farmer and the other for customers.
           </p>
-          <p className="prolink"><span className="linkboldtxt">Link: </span><a href="https://app--farm-link-copy-56f4226a.base44.app/" target="blank">app--farm-link-copy-56f4226a.base44.app</a></p>
+          <p className="prolink"><span className="linkboldtxt">Link: </span><a href="https://app--farm-link-ddbff139.base44.app" target="blank">https://app--farm-link-ddbff139.base44.app</a></p>
         </div>
         <div className="project">
           <h2 className="projectname">Grocers Galaxy</h2>

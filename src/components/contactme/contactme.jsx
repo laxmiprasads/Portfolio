@@ -17,11 +17,15 @@ const ContactMe = () => {
         </div>
         <div className="contactmedetails">
           <i class="fa-brands fa-linkedin"></i>
+          <a href="https://www.linkedin.com/in/laxmi-prasad-suraram" className="atag" target="blank">
           <p>https://www.linkedin.com/in/laxmi-prasad-suraram</p>
+          </a>
         </div>
         <div className="contactmedetails">
           <i class="fa-brands fa-github"></i>
+          <a href="https://github.com/laxmiprasads" className="atag" target="blank">
           <p>https://github.com/laxmiprasads</p>
+          </a>
         </div>
         </div>
       </div>

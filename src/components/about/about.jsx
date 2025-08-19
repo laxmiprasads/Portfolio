@@ -3,7 +3,7 @@ import './about.css';
 const About = () => {
   return(
     <div className="aboutpage">
-      <Navbar />
+      {/* <Navbar /> */}
       <div className="container">
         <div className="aboutcontent">
           <h1>Hello, I am <span className="goldcolortext">Laxmi Prasad</span></h1>
