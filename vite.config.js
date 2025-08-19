@@ -6,9 +6,7 @@ export default defineConfig({
   plugins: [react()],
   base: "/",
   build: {
-    outDir: "dist" // Or whatever your build output directory is
+    outDir: 'dist'
   },
-  server: {
-    historyApiFallback: true // This helps with local development routing
-  }
+  publicDir: 'public'
 });

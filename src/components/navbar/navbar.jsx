@@ -14,7 +14,7 @@ const Navbar = () => {
 
   return (
     <div className="navbar">
-      <h3 className='appname'><i className="pro fa-solid fa-user-tie"></i>it's Me</h3>
+      <h3 className='appname'><i className="pro fa-solid fa-user-tie"></i>Laxmi Prasad</h3>
 
       {/* Hamburger menu icon for mobile */}
       <div className={`menu-toggle ${isOpen ? 'active' : ''}`} onClick={toggleMenu}>

@@ -28,12 +28,12 @@
   padding: 10px; /* Increased padding slightly for better look */
   border-radius: 10px;
   width: 250px; /* Fixed width for desktop */
-  height: 270px; /* Fixed height for desktop */
+  height: 250px;
   border: none;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   display: flex; /* Use flex for content inside project card */
   flex-direction: column; /* Stack content vertically */
-  justify-content: space-between; /* Distribute space between items */
+  justify-content: space-evenly; /* Distribute space between items */
   text-align: left; /* Align text left within the project card */
   transition: all 0.3s ease-in-out; /* Add transition for hover effect */
 }
