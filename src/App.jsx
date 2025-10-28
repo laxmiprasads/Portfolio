@@ -25,7 +25,7 @@ function App() {
       <Route path="/myworks" element={<protectedRoute><Myworks /></protectedRoute>} ></Route>
       <Route path="/contactme" element={<protectedRoute><ContactMe/></protectedRoute>}></Route>
     </Routes>
-  <BrowserRouter/>
+  </BrowserRouter>
   )
 }
 
