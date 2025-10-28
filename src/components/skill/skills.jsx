@@ -57,7 +57,7 @@ const Skills = () => {
           <h2>Spring Boot</h2>
           </div>
           <div className="skillbox">
-          <img className="skillimgaem" src="https://www.acquia.com/sites/default/files/styles/large/public/media/image/2023-08/Adobe%20Experience%20Manager%20Logo_Integration.png?itok=qgwjgwdz" alt="aem" />
+          <img className="skillimgsql" src="https://www.acquia.com/sites/default/files/styles/large/public/media/image/2023-08/Adobe%20Experience%20Manager%20Logo_Integration.png?itok=qgwjgwdz" alt="aem" />
           <h2>AEM</h2>
           </div>
         </div>
