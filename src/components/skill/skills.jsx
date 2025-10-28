@@ -56,10 +56,6 @@ const Skills = () => {
           <img className="skillimgsql" src="https://i0.wp.com/chelseatroy.com/wp-content/uploads/2015/09/spring.png?fit=340,340&ssl=1" alt="springboot" />
           <h2>Spring Boot</h2>
           </div>
-          <div className="skillbox">
-          <img className="skillimgsql" src="https://www.acquia.com/sites/default/files/styles/large/public/media/image/2023-08/Adobe%20Experience%20Manager%20Logo_Integration.png?itok=qgwjgwdz" alt="aem" />
-          <h2>AEM</h2>
-          </div>
         </div>
       </div>
     </div>
