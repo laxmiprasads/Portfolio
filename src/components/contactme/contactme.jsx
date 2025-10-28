@@ -9,7 +9,7 @@ const ContactMe = () => {
         <div className="contactmedetailscontainer">
         <div className="contactmedetails">
           <i class="fa-solid fa-phone"></i>
-          <p>+91 9879879879</p>
+          <p>+91 7702722757</p>
         </div>
         <div className="contactmedetails">
           <i class="fa-solid fa-envelope"></i>
